@@ -7,7 +7,7 @@
 ### My projects:
 - [gophysics](https://github.com/Gabri432/gophysics), library in Go, under development :construction:
 - [gophysics.io](https://github.com/Gabri432/gophysics.io), website with plain Javascript and Github Pages, under development :construction:
-- [Laplace Expansion](https://github.com/Gabri432/LaplaceExpansion), currently finished
+- [Laplace Expansion](https://github.com/Gabri432/LaplaceExpansion), library in Go, currently finished
 
 ### Programming languages
 - Javascript
