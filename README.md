@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi, I'm Gabriele Gatti! Nice to meet you! :wave:
 
-<!--
-**Gabri432/gabri432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- I'm an Italian Computer Science student :computer:, basketball passionate :basketball: and chicken lover :heart_eyes:
+- I'm learning french, but for now I can only read it
 
-Here are some ideas to get you started:
+### My projects:
+- [gophysics](https://github.com/Gabri432/gophysics), library in Go, under development :construction:
+- [gophysics.io](https://github.com/Gabri432/gophysics.io), website with plain Javascript and Github Pages, under development :construction:
+- [Laplace Expansion](https://github.com/Gabri432/LaplaceExpansion), currently finished
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming languages
+- Javascript
+- Python
+- Go
+
+### Links
+- [Github](https://github.com/Gabri432)
+- [Linkedin](https://www.linkedin.com/in/gabriele-gatti-87b321190/)
