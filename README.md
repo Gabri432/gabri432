@@ -15,5 +15,5 @@
 - Go
 
 ### Links
-- [Github](https://github.com/Gabri432)
-- [Linkedin](https://www.linkedin.com/in/gabriele-gatti-87b321190/)
+- [Github](https://github.com/Gabri432) :octocat:
+- [Linkedin](https://www.linkedin.com/in/gabriele-gatti-87b321190/) :point_left:
