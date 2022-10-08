@@ -8,6 +8,7 @@
 - [gophysics](https://github.com/Gabri432/gophysics), library in Go, under development :construction:
 - [gophysics.io](https://github.com/Gabri432/gophysics.io), website with plain Javascript and Github Pages, under development :construction:
 - [Laplace Expansion](https://github.com/Gabri432/LaplaceExpansion), library in Go, currently finished
+- [Algorithms-unimi](https://github.com/Gabri432/algorithms-unimi), collection of some 'Algorithms and Data Structures' exercises solutions from Unimi.
 
 ### Programming languages
 - Javascript
