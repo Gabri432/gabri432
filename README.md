@@ -5,8 +5,9 @@
 - I'm learning french, but for now I can only read it
 
 ### My projects:
-- [angular-personal-website (repository)](https://github.com/Gabri432/angular-personal-website), personal website and blog made with Angular 16 and hosted on Github Pages
-- [angular-personal-website (website)](https://gabri432.github.io/angular-personal-website/), personal website and blog made with Angular 16 and hosted on Github Pages
+- [gabri-personal-website (website)](https://gabri-personal-website.pages.dev/), (new) personal website and blog made with Angular 19 and hosted on Cloudflare Pages
+- [angular-personal-website (repository)](https://github.com/Gabri432/angular-personal-website), (old) personal website and blog made with Angular 16 and hosted on Github Pages
+- [angular-personal-website (website)](https://gabri432.github.io/angular-personal-website/), (old) personal website and blog made with Angular 16 and hosted on Github Pages
 - [angular-cv-builder (website)](https://a9b647c1.angular-cv-builder.pages.dev/), website to create your personal resume made with Angular 17 and hosted on CloudFlare.
 - [gophysics](https://github.com/Gabri432/gophysics), library in Go, under development :construction:
 - [gophysics.io](https://github.com/Gabri432/angular-gophysics.io), website with plain Angular 16 and Github Pages, under development :construction:
@@ -20,8 +21,9 @@
 - Java
 
 ### Technologies
-- Angular (16+)
+- Angular (19+)
 - Github Pages
+- Cloudflare Pages
 - Visual Studio Code
 
 ### Links
