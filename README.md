@@ -16,15 +16,17 @@
 
 ### Programming languages
 - Javascript
-- Python
-- Go (and some basics of C)
-- Java
+- Python 3.12+
+- Go 1.17+
+- Java 17+
 
 ### Technologies
 - Angular (19+)
 - Github Pages
 - Cloudflare Pages
 - Visual Studio Code
+- IntelliJ (Community Edition)
+- Gradle 8.11
 
 ### Links
 - [Github](https://github.com/Gabri432) :octocat:
