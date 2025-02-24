@@ -11,7 +11,7 @@
 - [angular-cv-builder (website)](https://a9b647c1.angular-cv-builder.pages.dev/), website to create your personal resume made with Angular 17 and hosted on CloudFlare.
 - [gophysics](https://github.com/Gabri432/gophysics), library in Go, under development :construction:
 - [gophysics.io](https://github.com/Gabri432/angular-gophysics.io), website with plain Angular 16 and Github Pages, under development :construction:
-- [Laplace Expansion](https://github.com/Gabri432/LaplaceExpansion), library in Go, currently finished
+- [petri-net-java](https://github.com/Gabri432/petri-net-java), my implementation of simple Petri nets in Java.
 - [Java-unimi](https://github.com/Gabri432/java-unimi), collection of some 'Programming 2' exercises solutions from Unimi.
 
 ### Programming languages
